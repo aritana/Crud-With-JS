@@ -1,5 +1,5 @@
 # Crud-With-JS
-JS on the web: CRUD with asynchronous JavaScript
+## JS on the web: CRUD with asynchronous JavaScript
 
 #### Create a CRUD using fetch method and HTTP verbs
 #### Learn how to consume data from an API and display it on your frontend
